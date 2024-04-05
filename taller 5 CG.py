@@ -17,7 +17,7 @@ def punto1():
     plt.imshow(MiImagen2)
     plt.show()
 
-#punto1()
+punto1()
 
 def punto2():
     MiImagen=plt.imread("foto.JPG")
